@@ -289,87 +289,87 @@ window.details = {
         captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     61: {
-        special: "Deals 5x character's ATK in INT damage to all enemies",
+        special: "Hace 5x ATK en daño INT a todos los enemigos",
         specialName: "Lip-O-Cannon",
-        captain: "Boosts HP of Shooter characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Shooter x1.5"
     },
     62: {
-        special: "Deals 7x character's ATK in STR damage to one enemy",
+        special: "Hace 7x ATK en daño STR a todos los enemigos",
         specialName: "Guffaw Palm Bomb",
-        captain: "Boosts HP of Fighter characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Fighter x1.5"
     },
     63: {
-        captain: "Reduces damage received from DEX enemies by 30%"
+        captain: "Reduce el daño recibido de los enemigos DEX en un 30%"
     },
     64: {
-        special: "Deals 10x character's ATK in DEX damage to all enemies",
+        special: "Hace 10x ATK en daño DEX a todos los enemigos",
         specialName: "New Year's Open Body Slam",
-        captain: "Reduces damage received from DEX enemies by 50%"
+        captain: "Reduce el daño recibido de los enemigos DEX en un 30%"
     },
     65: {
-        special: "Deals 7x character's ATK in STR damage to one enemy",
+        special: "Hace 7x ATK en daño STR a un enemigo",
         specialName: "Shark On Darts",
-        captain: "Boosts ATK of Slasher characters by 2x"
+        captain: "Multiplica la vida de los personajes Slasher x1.5"
     },
     66: {
-        special: "Deals 15x character's ATK in STR damage to one enemy",
+        special: "Hace 15x ATK en daño STR a un enemigo",
         specialName: "Shark On Tooth",
-        captain: "Boosts ATK of Slasher characters by 2x"
+        captain: "Multiplica la vida de los personajes Slasher x2"
     },
     67: {
-        special: "Deals 25x character's ATK in QCK damage to one enemy",
+        special: "Hace 7x ATK en daño QCK a un enemigo",
         specialName: "Quick Draw",
-        captain: "Boosts RCV of Slasher characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes Slasher x1.5"
     },
     68: {
-        special: "Deals 25x character's ATK in QCK damage to one enemy",
+        special: "Hace 25x ATK en daño QCK a un enemigo",
         specialName: "Quick Draw",
-        captain: "Boosts RCV of Slasher characters by 2x"
+        captain: "Multiplica el RCV de los personajes Slasher x2"
     },
     69: {
-        special: "Reduces damage received by 50% for 3 turns",
+        special: "Reduce el daño recibido en un 50% durante 3 turnos",
         specialName: "White Out",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     70: {
-        special: "Reduces damage received by 50% for 3 turns",
+        special: "Reduce el daño recibido en un 50% durante 3 turnos",
         specialName: "White Out",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     71: {
-        special: "Reduces damage received by 50% for 1 turn",
+        special: "Reduce el daño recibido en un 50% durante 1 turno",
         specialName: "Enchanting Vertigo Dance",
-        captain: "Recovers 2x character's RCV in HP at the end of each turn"
+        captain: "Regenera 2x RCV en HP al final de cada turno"
     },
     72: {
-        special: "Randomizes all orbs",
+        special: "Cambia todos los orbes aleatoriamente",
         specialName: "Charge! Supersonic Duck Squadron!",
-        captain: "Recovers 3x character's RCV in HP at the end of each turn"
+        captain: "Regenera 3x RCV en HP al final de cada turno"
     },
     73: {
-        special: "Randomizes all orbs",
+        special: "Cambia todos los orbes aleatoriamente",
         specialName: "Charge! Supersonic Duck Squadron!",
-        captain: "Recovers 5x character's RCV in HP at the end of each turn"
+        captain: "Regenera 5x RCV en HP al final de cada turno"
     },
     74: {
-        special: "Deals 25x character's ATK in QCK damage to one enemy",
+        special: "Hace 25x ATK en daño QCK a un enemigo",
         specialName: "Flame Fist",
-        captain: "Boosts ATK of QCK characters by 2x"
+        captain: "Multiplica el ATK de los personajes QCK x2"
     },
     75: {
-        special: "Deals 15x character's ATK in QCK to all enemies",
+        special: "Hace 15x ATK en daño QCK a todos los enemigos",
         specialName: "Flame Mirror",
-        captain: "Boosts ATK of QCK characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes QCK x2.5"
     },
     76: {
-        special: "Deals 15x character's ATK in PSY damage to all enemies",
+        special: "Hace 15x ATK en daño PSY a todos los enemigos",
         specialName: "Conqueror's Haki",
-        captain: "Boosts ATK of PSY characters by 2x"
+        captain: "Multiplica el ataque de los personajes PSY x2"
     },
     77: {
-        special: "Deals 15x character's ATK in PSY damage to all enemies",
+        special: "Hace 15x ATK en daño PSY a todos los enemigos",
         specialName: "Conqueror's Haki",
-        captain: "Boosts ATK of PSY characters by 2.5x"
+        captain: "Multiplica el ataque de los personajes PSY x2.5"
     },
     119: {
         special: "Deals 10x character's ATK in character's type damage to one enemy",
