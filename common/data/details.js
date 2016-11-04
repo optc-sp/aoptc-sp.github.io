@@ -452,95 +452,95 @@ window.details = {
         specialName: "[DEX] Slot Change [RCV]"
     },
     139: {
-        special: "Changes [PSY] orbs into [RCV] orbs",
+        special: "Cambia los orbes [PSY] en orbes [RCV]",
         specialName: "[PSY] Slot Change [RCV]"
     },
     140: {
-        special: "Deals 5x character's ATK in character's type damage to all enemies",
+        special: "Hace 5x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Shot"
     },
     141: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     142: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight"
     },
     143: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     144: {
-        special: "Changes [STR] orbs into [DEX] orbs",
+        special: "Cambia los orbes [STR] en orbes [DEX]",
         specialName: "[STR] Slot Change [DEX]"
     },
     145: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     146: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight"
     },
     147: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash"
     },
     148: {
-        special: "Reduces the defense of all enemies by 50% for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 1 turno",
         specialName: "Shield Crusher"
     },
     149: {
-        special: "Changes [QCK] orbs into [DEX] orbs",
+        special: "Cambia los orbes [QCK] en orbes [DEX]",
         specialName: "[QCK] Slot Change [DEX]"
     },
     150: {
-        special: "Changes [INT] orbs into [PSY] orbs",
+        special: "Cambia los orbes [INT] en orbes [PSY]",
         specialName: "[INT] Slot Change [PSY]"
     },
     151: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash"
     },
     152: {
-        special: "Changes [RCV] orbs into [STR] orbs",
+        special: "Cambia los orbes [RCV] en orbes [STR]",
         specialName: "[RCV] Slot Change [STR]"
     },
     153: {
-        special: "Changes [DEX] orbs into [QCK] orbs",
+        special: "Cambia los orbes [DEX] en orbes [QCK]",
         specialName: "[DEX] Slot Change [QCK]"
     },
     154: {
-        special: "Changes [QCK] orbs into [DEX] orbs",
+        special: "Cambia los orbes [QCK] en orbes [DEX]",
         specialName: "[QCK] Slot Change [DEX]"
     },
     155: {
-        special: "Changes [QCK] orbs into [RCV] orbs",
+        special: "Cambia los orbes [QCK] en orbes [RCV]",
         specialName: "[QCK] Slot Change [RCV]"
     },
     156: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Spiral"
     },
     157: {
-        special: "Deals 5x character's ATK in character's type damage to all enemies",
+        special: "Hace 5x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Shot"
     },
     158: {
-        special: "Reduces the defense of all enemies by 50% for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 1 turno",
         specialName: "Shield Crusher"
     },
     159: {
-        special: "Changes [DEX] orbs into [RCV] orbs",
+        special: "Cambia los orbes [DEX] en orbes [RCV]",
         specialName: "[DEX] Slot Change [RCV]"
     },
     160: {
-        special: "Changes [PSY] orbs into [RCV] orbs",
+        special: "Cambia los orbes [PSY] en orbes [RCV]",
         specialName: "[PSY] Slot Change [RCV]"
     },
     161: {
-        special: "Deals 5x character's ATK in character's type damage to all enemies",
+        special: "Hace 5x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Shot"
     },
     162: {
