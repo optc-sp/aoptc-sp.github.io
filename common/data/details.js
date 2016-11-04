@@ -150,35 +150,35 @@ window.details = {
         captain: "Reduce el daño recibido de los enemigos STR en un 50%"
     },
     31: {
-        captain: "Recovers 2x character's RCV in HP at the end of each turn"
+        captain: "Regenera 2x RCV en HP"
     },
     32: {
-        special: "Changes [RCV] orbs into [TND] orbs",
+        special: "Cambia los orbes RCV en orbes TND",
         specialName: "Shooting Spree",
-        captain: "Recovers 2x character's RCV in HP at the end of each turn"
+        captain: "Regenera 2x RCV en HP al final de cada turno"
     },
     33: {
-        captain: "Reduces damage received from INT enemies by 30%"
+        captain: "Reduce el daño recibido de enemigos INT en un 30%"
     },
     34: {
-        special: "Reduces the defense of all enemies by 100% for 1 turn",
+        special: "Reduce la defensa de todos los enemigos en un 100% durante 1 turno",
         specialName: "Straw Doll Of Resentment",
-        captain: "Reduces damage received from INT enemies by 30%"
+        captain: "Reduce el daño recibido de enemigos INT en un 30%"
     },
     35: {
-        special: "Deals 5x character's ATK in STR damage to one enemy",
+        special: "Hace 5x ATK en daño STR a un enemigo",
         specialName: "Execution Axe-Hand",
-        captain: "Boosts HP of Slasher characters by 1.2x"
+        captain: "Multiplica el HP de los personajes Slasher x1.2"
     },
     36: {
-        special: "Deals 5x character's ATK in PSY damage to one enemy",
+        special: "Hace 5x ATK en daño PSY a un enemigo",
         specialName: "Fierce Bite",
-        captain: "Boosts ATK of PSY characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes PSY x1.5"
     },
     37: {
-        special: "Deals 5x character's ATK in DEX damage to one enemy",
+        special: "Hace 5x ATK en daño DEX a un enemigo",
         specialName: "The Dance Of A Hundred Kamikaze Tops",
-        captain: "Boosts ATK of DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     38: {
         special: "Changes [RCV] orbs into [INT] orbs",
