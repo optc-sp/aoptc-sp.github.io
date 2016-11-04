@@ -181,44 +181,44 @@ window.details = {
         captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     38: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes RCV en orbes INT",
         specialName: "Chop-Chop Festival",
-        captain: "Boosts ATK of INT characters by 1.5x"
+        captain: "Multiplica el ataque de los personajes INT x1.5"
     },
     39: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes RCV a orbes INT",
         specialName: "Chop-Chop Festival",
-        captain: "Boosts ATK of INT characters by 2x"
+        captain: "Multiplica el ATK de los personajes INT x2"
     },
     40: {
-        special: "Changes adjacent orbs into [RCV] orbs",
+        special: "Cambia los orbes adyacentes en orbes RCV",
         specialName: "[RCV] Slot Storm",
-        captain: "Reduces damage received from Shooter enemies by 30%"
+        captain: "Reduce el daño recibido de los personajes Shooter un 30%"
     },
     41: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes RCV en orbes INT",
         specialName: "Cat Snatch",
-        captain: "Boosts RCV of INT characters by 1.2x"
+        captain: "Multiplica el RCV de los personajes INT x1.2"
     },
     42: {
-        special: "Deals 3x character's ATK in STR damage to all enemies",
+        special: "Hace 3x ATK en daño STR a todos los enemigos",
         specialName: "Cat-A-Pult Cat-Astrophe",
-        captain: "Boosts ATK of STR characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes STR x1.2"
     },
     43: {
-        special: "Changes [RCV] orbs into [DEX] orbs",
+        special: "Cambia los orbes RCV en orbes DEX",
         specialName: "One, Two, Django",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     44: {
-        special: "Changes [RCV] orbs into [DEX] orbs",
+        special: "Cambia los orbes RCV en orbes DEX",
         specialName: "Dance Heaven",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     45: {
-        special: "Deals 5x character's ATK in QCK damage to all enemies",
+        special: "Hace 5x ATK en daño QCK a todos los enemigos",
         specialName: "Death Scoop",
-        captain: "Boosts ATK of QCK characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes QCK x1.2"
     },
     46: {
         special: "Deals 5x character's ATK in QCK damage to all enemies",
