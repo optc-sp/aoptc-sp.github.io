@@ -4,18 +4,18 @@ window.details = {
         specialName: "Spinning Gum Punch"
     },
     2: {
-        special: "Deals 7x character's ATK in STR damage to one enemy",
+        special: "Hace 7x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Pistol",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica  el ataque de los personajes STR por 1.5"
     },
     3: {
-        special: "Deals 15x character's ATK in STR damage to one enemy",
+        special: "Hace 15x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Bazooka",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ataque de los personajes STR por 1.5"
     },
     4: {
-        captain: "Boosts ATK of STR characters by 2x, and ATK of all others by 1.5x",
-        special: "Deals 25x character's ATK in STR damage to one enemy",
+        captain: "Multiplica el ataque de los personajes STR por 2, y el del resto de personajes por 1.5",
+        special: "Hace 25x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Twin Jet Pistol"
     },
     5: {
