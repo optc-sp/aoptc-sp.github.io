@@ -687,102 +687,102 @@ window.details = {
         captain: "Multiplica el ataque de los personajes STR x2"
     },
     201: {
-        captain: "Boosts HP of Fighter characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Fighter x1.5"
     },
     202: {
-        special: "Changes [RCV] orbs into [QCK] orbs",
+        special: "Cambia los orbes [RCV] en orbes [QCK]",
         specialName: "10,000 Kill-O-Guillotine",
-        captain: "Boosts HP of Fighter characters by 2x"
+        captain: "Multiplica el HP de los personajes Fighter x2"
     },
     203: {
-        captain: "Reduces damage received from INT enemies by 10%"
+        captain: "Reduce el daño recibido de enemigos INT en un 10%"
     },
     204: {
-        special: "Delays all enemies for 1 turn",
+        special: "Retarda a todos los enemigos 1 turno",
         specialName: "Extra Special Candelabra",
-        captain: "Reduces damage received from INT enemies by 10%"
+        captain: "Reduce el daño recibido de enemigos INT en un 10%"
     },
     205: {
-        captain: "Boosts HP and RCV of DEX characters by 1.2x"
+        captain: "Multiplica el HP y el RCV de los personajes DEX x1.2"
     },
     206: {
-        special: "Reduces the defense of all enemies by 50% for 2 turns",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante dos turnos",
         specialName: "Colors Trap: Calming Green",
-        captain: "Boosts HP and RCV of DEX characters by 1.2x"
+        captain: "Multiplica el HP y el RCV de los personajes DEX x1.2"
     },
     207: {
-        captain: "Reduces damage received from PSY enemies by 10%"
+        captain: "Reduce el daño recibido de enemigos PSY en un 10%"
     },
     208: {
-        special: "Changes [RCV] orbs into [PSY] orbs",
+        special: "Cambia los orbes [RCV] en orbes [PSY]",
         specialName: "Bombardier Arabesque",
-        captain: "Reduces damage received from PSY enemies by 20%"
+        captain: "Reduce el daño recibido de enemigos PSY en un 20% "
     },
     209: {
-        special: "Boosts ATK of INT characters by 1.5x for 1 turn",
+        special: "Multiplica el ATK de los personajes INT x1.5 durante 1 turno",
         specialName: "Dieciseis Fleur",
-        captain: "Boosts RCV of INT characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes INT x1.5"
     },
     210: {
-        special: "Boosts ATK of INT characters by 2x for 1 turn",
+        special: "Multiplica el ataque de los personajes INT x2 durante 1 turno",
         specialName: "Cien Fleur",
-        captain: "Boosts RCV of INT characters by 2x"
+        captain: "Multiplica el RCV de los personajes INT x2"
     },
     211: {
-        captain: "Boosts ATK of Striker characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes Striker x1.2"
     },
     212: {
-        special: "Deals 5x character's ATK in QCK damage to one enemy",
+        special: "Hace 5x ATK en daño QCK a un enemigo",
         specialName: "Hot Blooded Bat",
-        captain: "Boosts ATK of Striker characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Striker x1.5"
     },
     213: {
-        special: "Deals 20x character's ATK in STR damage to all enemies",
+        special: "Hace 20x ATK en daño STR a todos los enemigos",
         specialName: "Sorrowful Charge",
-        captain: "Protects from defeat as long as HP is above 50%",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 50%",
         captainNotes: "#{zombie}"
     },
     214: {
-        special: "Deals 20x character's ATK in STR damage to all enemies",
+        special: "Hace 20x ATK en daño STR a todos los enemigos",
         specialName: "Sorrowful Charge",
-        captain: "Protects from defeat as long as HP is above 50%",
+        captain: "Protege de la derrota mientras el HP se sitúe por encima del 50%",
         captainNotes: "#{zombie}"
     },
     215: {
-        special: "Poisons all enemies",
+        special: "Envenena a todos los enemigos",
         specialNotes: "#{poison}",
         specialName: "Poison Ink",
-        captain: "Boosts HP of Striker characters by 1.5x"
+        captain: "Multiplica el HP de los personajes Striker x1.5"
     },
     216: {
-        special: "Reduces damage received by 50% for 3 turns",
+        special: "Reduce el daño recibido en un 50% durante 3 turnos",
         specialName: "Gum-Gum Balloon",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     217: {
-        special: "Deals 15x character's ATK in STR damage to all enemies",
+        special: "Hace 15x ATK en daño STR a todos los enemigos",
         specialName: "Gum-Gum Giant Rifle",
-        captain: "Boosts ATK by 3.5x after scoring 3 Perfects in a row"
+        captain: "Multiplica el ATK x3.5 después de acertar 3 Perfect seguidos"
     },
     218: {
-        special: "Reduces damage received from STR enemies by 100% for 1 turn",
+        special: "Reduce el daño recibido de enemigos STR en un 100% durante 1 turno",
         specialName: "Streaming Wolf Swords",
-        captain: "Reduces damage received by 80% if HP is above 99% at the start of the turn"
+        captain: "Reduce el daño recibido en un 80% si el HP está por encima del 99% al inicio del turno"
     },
     219: {
-        special: "Deals 25x character's ATK in DEX damage to one enemy",
+        special: "Hace 25x ATK en daño DEX a un enemigo",
         specialName: "Lion's Song",
-        captain: "Reduces damage received by 80% if HP is above 99% at the start of the turn"
+        captain: "Reduce el daño recibido en un 80% si el HP está por encima del 99% al inicio del turno"
     },
     220: {
-        special: "Changes [PSY] orbs into [INT] orbs",
+        special: "Cambia los orbes [PSY] en orbes [INT]",
         specialName: "Fine Tempo",
-        captain: "Boosts ATK of INT characters by 2x"
+        captain: "Multiplica el ATK de los personajes INT x2"
     },
     221: {
-        special: "Changes [PSY] orbs into [INT] orbs",
+        special: "Cambia los orbes [PSY] en orbes [INT]",
         specialName: "Happiness Punch",
-        captain: "Boosts ATK of INT characters by 2.5x"
+        captain: "Multiplica el ATK de los personajes INT x2.5"
     },
     222: {
         special: "Boosts ATK of PSY characters by 1.5x for 1 turn",
