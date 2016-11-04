@@ -221,72 +221,72 @@ window.details = {
         captain: "Multiplica el ATK de los personajes QCK x1.2"
     },
     46: {
-        special: "Deals 5x character's ATK in QCK damage to all enemies",
+        special: "Hace 5x ATK en daño QCK a todos los enemigos",
         specialName: "Death Scoop",
-        captain: "Boosts ATK of QCK characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK x1.5"
     },
     47: {
-        special: "Changes [TND] orbs into [RCV] orbs",
+        special: "Cambia los orbes TND en orbes RCV",
         specialName: "[TND] Slot Change [RCV]"
     },
     48: {
-        special: "Changes adjacent orbs into [RCV] orbs",
+        special: "Cambia los orbes adyacentes en orbes RCV",
         specialName: "[RCV] Slot Storm"
     },
     49: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     50: {
-        special: "Deals 5x character's ATK in STR damage to one enemy",
+        special: "Hace 5x ATK en daño STR a un enemigo",
         specialName: "The Meatball Of Doom",
-        captain: "Recovers 4x character's RCV in HP at the end of each turn"
+        captain: "Regenera 4x RCV en HP al final de cada turno"
     },
     51: {
-        captain: "Recovers 3x character's RCV in HP at the end of each turn"
+        captain: "Regenera 3x RCV en HP al final de cada turno"
     },
     52: {
-        special: "Changes [STR] orbs into [DEX] orbs",
+        special: "Cambia los orbes STR en orbes DEX",
         specialName: "Chef Drop",
-        captain: "Boosts ATK of Fighter characters by 2.5x"
+        captain: "Multiplica el ataque de los personajes Fighter x2.5"
     },
     53: {
-        captain: "Reduces damage received from QCK enemies by 30%"
+        captain: "Reduce el daño recibido de los enemigos QCK en un 30%"
     },
     54: {
-        special: "Deals 7x character's ATK in QCK damage to one enemy",
+        special: "Hace 7x ATK en daño QCK a un enemigo",
         specialName: "Demonic Dance",
-        captain: "Reduces damage received from QCK enemies by 50%"
+        captain: "Reduce el daño recibido de los enemigos QCK en un 50%"
     },
     55: {
-        captain: "Reduces damage received from STR enemies by 30%"
+        captain: "Reduce el daño recibido de los enemigos STR en un 30%"
     },
     56: {
-        special: "Changes [RCV] orbs into [STR] orbs",
+        special: "Cambia los orbes RCV en orbes STR",
         specialName: "Fire Pearl Privilege",
-        captain: "Reduces damage received from STR enemies by 50%"
+        captain: "Reduce el daño recibido de los enemigos STR en un 50%"
     },
     57: {
-        special: "Deals 7x character's ATK in INT damage to one enemy",
+        special: "Hace 7x ATK en daño INT a un enemigo",
         specialName: "Chain Hammer",
-        captain: "Reduces damage received by 10%"
+        captain: "Reduce el daño recibido en un 10%"
     },
     58: {
-        special: "Poisons all enemies",
+        special: "Envenena a todos los enemigos",
         specialNotes: "#{poison}",
         specialName: "MH5",
-        captain: "Reduces damage received by 20%"
+        captain: "Reduce el daño recibido en un 20%"
     },
     59: {
-        special: "Changes [PSY] orbs into [INT] orbs",
+        special: "Cambia los orbes PSY en orbes INT",
         specialName: "[PSY] Slot Change [INT]",
-        captain: "Boosts ATK of INT characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes INT x1.2"
     },
     60: {
-        special: "Changes [TND] orbs into [STR] orbs",
+        special: "Cambia los orbes TND en orbes STR",
         specialName: "[TND] Slot Change [STR]",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     61: {
         special: "Deals 5x character's ATK in INT damage to all enemies",
