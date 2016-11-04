@@ -544,147 +544,147 @@ window.details = {
         specialName: "Hyper Shot"
     },
     162: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     163: {
-        special: "Changes [DEX] orbs into [TND] orbs",
+        special: "Cambia los orbes [DEX] en orbes [TND]",
         specialName: "[DEX] Slot Change [TND]"
     },
     164: {
-        special: "Changes [QCK] orbs into [TND] orbs",
+        special: "Cambia los orbes [QCK] en orbes [TND]",
         specialName: "[QCK] Slot Change [TND]"
     },
     165: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     166: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     167: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     168: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     169: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     170: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     171: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     172: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     173: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     174: {
-        special: "Reduces damage received by 20% for 1 turn",
+        special: "Reduce el daño recibido en un 20% durante 1 turno",
         specialName: "Iron Shield"
     },
     175: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight"
     },
     176: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash"
     },
     177: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Spiral"
     },
     178: {
-        special: "Deals 5x character's ATK in character's type damage to all enemies",
+        special: "Hace 5x ATK en daño del tipo del personaje a todos los enemigos",
         specialName: "Hyper Shot"
     },
     179: {
-        special: "Changes [QCK] orbs into [STR] orbs",
+        special: "Cambia los orbes [QCK] en orbes [STR]",
         specialName: "[QCK] Slot Change [STR]"
     },
     180: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     181: {
-        special: "Changes [STR] orbs into [QCK] orbs",
+        special: "Cambia los orbes [STR] en orbes [QCK]",
         specialName: "[STR] Slot Change [QCK]"
     },
     182: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     183: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes [RCV] en orbes [INT]",
         specialName: "[RCV] Slot Change [INT]"
     },
     184: {
-        special: "Changes [QCK] orbs into [STR] orbs",
+        special: "Cambia los orbes [QCK] en orbes [STR]",
         specialName: "[QCK] Slot Change [STR]"
     },
     185: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     186: {
-        special: "Changes [STR] orbs into [QCK] orbs",
+        special: "Cambia los orbes [STR] en orbes [QCK]",
         specialName: "[STR] Slot Change [QCK]"
     },
     187: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing"
     },
     188: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes [RCV] en orbes [INT]",
         specialName: "[RCV] Slot Change [INT]"
     },
     194: {
-        special: "Changes [QCK] orbs into [STR] orbs",
+        special: "Cambia los orbes [QCK] en orbes [STR]",
         specialName: "[QCK] Slot Change [STR]",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     195: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing",
-        captain: "Boosts RCV of DEX characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes DEX x1.5"
     },
     196: {
-        special: "Changes [STR] orbs into [QCK] orbs",
+        special: "Cambia los orbes [STR] en orbes [QCK]",
         specialName: "[STR] Slot Change [QCK]",
-        captain: "Boosts ATK of QCK characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK x1.5"
     },
     197: {
-        special: "Recovers 5x character's RCV in HP",
+        special: "Regenera 5x RCV en HP",
         specialName: "Light Healing",
-        captain: "Reduces damage received from PSY enemies by 20%"
+        captain: "Reduce el daño recibido de enemigos PSY en un 20%"
     },
     198: {
-        special: "Changes [RCV] orbs into [INT] orbs",
+        special: "Cambia los orbes [RCV] en orbes [INT]",
         specialName: "[RCV] Slot Change [INT]",
-        captain: "Boosts ATK of Shooter characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes Shooter x1.5"
     },
     199: {
-        special: "Deals 15x character's ATK in STR damage to one enemy",
+        special: "Hace 15x ATK en daño STR a un enemigo",
         specialName: "Nez-Palm Cannon",
-        captain: "Boosts ATK of STR characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     200: {
-        special: "Deals 20x character's ATK in STR damage to one enemy",
+        special: "Hace 20x ATK en daño STR a un enemigo",
         specialName: "Breeze Breath Bomb",
-        captain: "Boosts ATK of STR characters by 2x"
+        captain: "Multiplica el ataque de los personajes STR x2"
     },
     201: {
         captain: "Boosts HP of Fighter characters by 1.5x"
