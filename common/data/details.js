@@ -100,54 +100,54 @@ window.details = {
         captain: "Multiplica el ATK y el HP de los personajes QCK x1.5"
     },
     21: {
-        special: "Changes adjacent orbs into [RCV] orbs",
+        special: "Cambia los orbes adyacentes en RCV",
         specialName: "Hearty Yell",
-        captain: "Boosts RCV of PSY characters by 1.2x"
+        captain: "Multiplica el RCV de los personajes PSY X1.2"
     },
     22: {
-        special: "Deals 15x character's ATK in PSY damage to one enemy",
+        special: "Hace 15x ATK en daño PSY a un enemigo",
         specialName: "Heavy Gong",
-        captain: "Boosts RCV of PSY characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes PSY x1.5"
     },
     23: {
-        special: "Changes adjacent orbs into [RCV] orbs",
+        special: "Cambia los orbes adyacentes en RCV",
         specialName: "Scope",
-        captain: "Boosts RCV of INT characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes INT x1.5"
     },
     24: {
-        special: "Reduces the defense of all enemies by 50% for 2 turns",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante dos turnos",
         specialName: "Hoofprint Roseo",
-        captain: "Boosts RCV of STR characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes STR x1.5"
     },
     25: {
-        special: "Deals 7x character's ATK in QCK damage to all enemies",
+        special: "Hace 7x ATK en daño QCK a todos los enemigos",
         specialName: "Horn Point Roseo Colonnade",
-        captain: "Boosts RCV of QCK characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes QCK x1.5"
     },
     26: {
-        special: "Reduces damage received by 50% for 3 turns",
+        special: "Reduce el daño recibido en un 50% durante tres turnos",
         specialName: "Guard Point",
-        captain: "Boosts RCV of DEX characters by 1.5x"
+        captain: "Multiplica el RCV de los personajes DEX x1.5"
     },
     27: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Slash",
-        captain: "Boosts HP of QCK characters by 1.2x"
+        captain: "Multiplica el HP de los personajes QCK x1.2"
     },
     28: {
-        special: "Deals 10x character's ATK in character's type damage to one enemy",
+        special: "Hace 10x ATK en daño del tipo del personaje a un enemigo",
         specialName: "Hyper Straight",
-        captain: "Boosts ATK of Fighter characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes Fighter x1.2"
     },
     29: {
-        special: "Deals 7x character's ATK in STR damage to one enemy",
+        special: "Hace 7x ATK en daño STR a un enemigo",
         specialName: "Iron Mace Beauty",
-        captain: "Reduces damage received from STR enemies by 30%"
+        captain: "Reduce el daño recibido de los enemigos STR en un 30%"
     },
     30: {
-        special: "Reduces damage received by 80% for 1 turn",
+        special: "Reduce el daño recibido en un 80% durante un turno",
         specialName: "Slip-Slip Tracks",
-        captain: "Reduces damage received from STR enemies by 50%"
+        captain: "Reduce el daño recibido de los enemigos STR en un 50%"
     },
     31: {
         captain: "Recovers 2x character's RCV in HP at the end of each turn"
