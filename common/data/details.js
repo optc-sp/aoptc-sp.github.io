@@ -6,98 +6,98 @@ window.details = {
     2: {
         special: "Hace 7x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Pistol",
-        captain: "Multiplica  el ataque de los personajes STR por 1.5"
+        captain: "Multiplica  el ATK de los personajes STR x1.5"
     },
     3: {
         special: "Hace 15x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Bazooka",
-        captain: "Multiplica el ataque de los personajes STR por 1.5"
+        captain: "Multiplica el ATK de los personajes STR x1.5"
     },
     4: {
-        captain: "Multiplica el ataque de los personajes STR por 2, y el del resto de personajes por 1.5",
+        captain: "Multiplica el ATK de los personajes STR por 2, y el del resto de personajes x1.5",
         special: "Hace 25x ATK en daño STR a un enemigo",
         specialName: "Gum-Gum Twin Jet Pistol"
     },
     5: {
-        special: "Deals 7x character's ATK in DEX damage to one enemy",
+        special: "Hace 7x ATK en daño DEX a un enemigo",
         specialName: "Oni Giri",
-        captain: "Boosts ATK of DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     6: {
-        special: "Deals 10x character's ATK in DEX damage to all enemies",
+        special: "Hace 10x ATK en daño DEX a todos los enemigos",
         specialName: "Three Thousand Worlds",
-        captain: "Boosts ATK of DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     7: {
-        special: "Deals 10x character's ATK in DEX damage to all enemies",
+        special: "Hace 10x ATK en daño DEX a todos los enemigos",
         specialName: "108 Pound Phoenix",
-        captain: "Boosts ATK of DEX characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes DEX x1.5"
     },
     8: {
-        special: "Deals 15x character's ATK in DEX damage to all enemies",
+        special: "Hace 15x ATK en daño DEX a todos los enemigos",
         specialName: "Ashura Ichibugin",
-        captain: "Boosts ATK and HP of DEX characters by 2x"
+        captain: "Multiplica el ATK y el HP de los personajes DEX x2 "
     },
     9: {
-        special: "Recovers 1,000 HP",
+        special: "Recupera 1.000 HP",
         specialName: "Cat Burglar",
-        captain: "Reduces damage received from INT enemies by 20%"
+        captain: "Reduce el daño recibido de enemigos INT en un 20%"
     },
     10: {
-        special: "Deals 15x character's ATK in INT damage to one enemy",
+        special: "Hace 15x ATK en daño INT a un enemigo",
         specialName: "Tornado Tempo",
-        captain: "Boosts ATK of INT characters by 1.5x"
+        captain: "Multiplica el ataque de los personajes INT x1.5"
     },
     11: {
-        special: "Reduces damage received from INT enemies by 100% for 1 turn",
+        special: "Reduce el daño recibido de enemigos INT en un 100% por 1 turno",
         specialName: "Mirage Tempo",
-        captain: "Boosts ATK of INT characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes INT X1.5"
     },
     12: {
-        special: "Deals 15x character's ATK in INT damage to all enemies",
+        special: "Hace 15x ATK en daño INT a todos los enemigos",
         specialName: "Thunderbolt Tempo",
-        captain: "Boosts ATK and HP of INT characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes INT x1.5"
     },
     13: {
-        special: "Delays all enemies for 1 turn",
+        special: "Retarda a todos los enemigos un turno",
         specialName: "Liar",
-        captain: "Boosts ATK of Shooter characters by 1.2x"
+        captain: "Multiplica el ATK de los personajes Shooter x1.2"
     },
     14: {
-        special: "Delays all enemies for 2 turns",
+        special: "Retarda a todos los enemigos 2 turnos",
         specialName: "Tabasco Star",
-        captain: "Boosts ATK of PSY characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes PSY X1.5"
     },
     15: {
-        special: "Delays all enemies for 3 turns",
+        special: "Retarda a todos los enemigos 3 turnos",
         specialName: "Usopp Golden Pound",
-        captain: "Boosts ATK of PSY characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes PSY x1.5"
     },
     16: {
-        special: "Delays all enemies for 3 turns, deals 15x character's ATK in PSY damage to all enemies",
+        special: "Retrasa a todos los enemigos 3 turnos y hace 15x ATK en daño PSY a todos los enemigos",
         specialName: "Fire Bird Star",
-        captain: "Boosts ATK and HP of PSY characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes PSY X1.5"
     },
     17: {
-        special: "Recovers 10x character's RCV in HP",
+        special: "Regenera 10x RCV en HP",
         specialName: "Special Fried Rice",
-        captain: "Boosts ATK of QCK characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK x1.5"
     },
     18: {
-        special: "Reduces the defense of all enemies by 50% for 2 turns",
+        special: "Reduce la defensa de todos los enemigos en un 50% durante 2 turnos",
         specialName: "Plastic Surgery Shot",
-        captain: "Boosts HP of QCK characters by 1.5x"
+        captain: "Multiplica el HP de los personajes QCK x1.5"
     },
     19: {
-        special: "Recovers 10x character's RCV in HP",
+        special: "Regenera 10x RCV en HP",
         specialName: "Hot Rock Stew",
-        captain: "Boosts ATK of QCK characters by 1.5x"
+        captain: "Multiplica el ATK de los personajes QCK x1.5"
     },
     20: {
-        special: "Deals 5,000 fixed damage to all enemies",
+        special: "Hace 5.000 en daño fijo a todos los enemigos",
         specialName: "Diable Jambe",
         specialNotes: "#{fixed}",
-        captain: "Boosts ATK and HP of QCK characters by 1.5x"
+        captain: "Multiplica el ATK y el HP de los personajes QCK x1.5"
     },
     21: {
         special: "Changes adjacent orbs into [RCV] orbs",
