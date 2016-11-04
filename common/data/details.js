@@ -1,6 +1,6 @@
 window.details = {
     1: {
-        special: "Deals 5x character's ATK in STR damage to one enemy",
+        special: "Hace 5x ATK en daño STR a un enemigo",
         specialName: "Spinning Gum Punch"
     },
     2: {
